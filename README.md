@@ -1,4 +1,4 @@
-#Price Checker
+# Price Checker
 Simple python script that checks a flight's price and sends it via sms to you.
 
 ## Step 1
